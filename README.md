@@ -1,2 +1,2 @@
-#PvPEffects Minecraft Plugin
+PvPEffects Minecraft Plugin
 
