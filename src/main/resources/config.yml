@@ -1,0 +1,12 @@
+key: ""
+
+player-sound:
+  fcc7fd5f-8e02-3772-a1b9-4bb95b79a964: ENTITY_PANDA_SNEEZE
+  42d41ffc-1565-305c-8fb1-f7e935c25ee9: ENTITY_CAT_HISS
+  f44e83aa-ecdf-3b1e-8a8b-bc2e54c7effa: ENTITY_CAT_HISS
+player-particle:
+  fcc7fd5f-8e02-3772-a1b9-4bb95b79a964: FLAME
+  42d41ffc-1565-305c-8fb1-f7e935c25ee9: FLAME
+  f44e83aa-ecdf-3b1e-8a8b-bc2e54c7effa: FLAME
+player-deathsound:
+  fcc7fd5f-8e02-3772-a1b9-4bb95b79a964: ENTITY_CAT_HISS

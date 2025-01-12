@@ -1,0 +1,26 @@
+name: PvPEffects
+main: com.example.plugin.Main
+version: 1.4
+api-version: 1.17
+commands:
+  pvpeffects:
+    description: Opens the PvP Effects GUI
+    usage: /pvpeffects
+  guiparticle:
+    description: Opens the PvP Effects GUI
+    usage: /guiparticle
+  guisound:
+    description: Opens the PvP Effects GUI
+    usage: /guisound
+  guideathsound:
+    description: Opens the PvP Effects GUI
+    usage: /guisound
+  setsound:
+    description: Set the hit sound.
+    usage: /setsound
+  setdeathsound:
+    description: Set the death sound.
+    usage: /setdeathsound
+  setparticle:
+    description: Set the particle effect.
+    usage: /setparticle
